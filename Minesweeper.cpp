@@ -1,3 +1,5 @@
+//Minesweeper
+
 #include <graphics.h>
 #include <time.h>
 using namespace std;
